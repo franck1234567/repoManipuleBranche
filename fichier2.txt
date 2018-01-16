@@ -1,3 +1,4 @@
 
 /////----Fichier2.txt----////
 1- Phrase 1: à sa création
+2- Phrase 2: dans mabrancheB
