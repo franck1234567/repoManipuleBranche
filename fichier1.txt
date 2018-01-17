@@ -2,5 +2,5 @@
 ///////---Fichier1.txt---////////
 
 1- Phrase 1: à sa création
-2- Phrase 2: 1ere phrase dans mabrancheA
-3- Phrase 3: 1er phrase dans mabrancheC
+2- Phrase 2: 1ere phrase | master 444444
+3- phrase dans mabrancheC
