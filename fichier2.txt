@@ -1,6 +1,6 @@
 
 /////----Fichier2.txt----////
-1- master77777: à sa création
 2- Phrase 2: dans mabrancheB
 3- Phrase 3: modification via master
-master789
+
+123----mabrancheD
