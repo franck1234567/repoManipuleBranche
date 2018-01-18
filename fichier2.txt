@@ -2,5 +2,5 @@
 /////----Fichier2.txt----////
 2- Phrase 2: dans mabrancheB
 3- Phrase 3: modification via master
-
+   Nouvelle phrase via master
 123----mabrancheD
