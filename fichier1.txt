@@ -6,4 +6,5 @@
    Nouvelle phrase via mabrancheE
    Phrase avant rebase via master
    Autre ph apres modif ds mabrancheE via master
+   Autre ph apres resolution du conflit via mabrancheE2
 3- phrase dans mabrancheC
