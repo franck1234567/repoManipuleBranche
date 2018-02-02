@@ -2,8 +2,9 @@
 ///////---Fichier1.txt---////////
 
 1- Phrase 1: à sa création
+Voici une nouvelle phrase de la branche mabrancheA
 2- Phrase 2: 1ere phrase | master 444444
-   Nouvelle phrase via mabrancheE
+   Ceci est la phrase definitive de mabrancheA
    Phrase avant rebase via master
    Autre ph apres modif ds mabrancheE via master
    Autre ph apres resolution du conflit via mabrancheE2
